@@ -28,7 +28,11 @@ $config = [
             ],
         ],
     ],
-    'params' => $params,
+    'modules' => [
+        'mm' => [
+            'class' => 'iutbay\yii2\mm\Module',
+        ],
+    ],
 ];
 if (YII_ENV_DEV) {
     // configuration adjustments for 'dev' environment
