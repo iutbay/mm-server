@@ -1,0 +1,23 @@
+{
+    "name": "iutbay/mm-server",
+    "description": "Media Manager Server",
+    "keywords": ["mm", "yii2"],
+    "homepage": "https://github.com/iutbay/mm-server",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Kevin LEVRON",
+            "email": "kevin.levron@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "*",
+        "iutbay/yii2-mm": "*"
+    },
+    "require-dev": {
+        "yiisoft/yii2-debug": "*"
+    }
+}
