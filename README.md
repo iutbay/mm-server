@@ -1,2 +1,1 @@
-# mm-server
-Media Manager Server
+# Media Manager Server
