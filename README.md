@@ -2,6 +2,10 @@
 
 This Yii2 **simple** application can be used to provide data to [Media Manager Client](https://github.com/iutbay/mm).
 
+## Demo
+
+[https://www.iutbayonne.univ-pau.fr/~klevron/mm/](https://www.iutbayonne.univ-pau.fr/~klevron/mm/)
+
 ## Requirements
 
 - A Web Server with PHP >= 5.4.0
