@@ -26,6 +26,7 @@ $config = [
             'showScriptName' => false,
             'rules' => [
                 'api/<action>' => 'mm/api/<action>',
+                'thumbs/<path:.*>' => 'mm/thumb/thumb',
             ],
         ],
         'fs' => [
