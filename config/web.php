@@ -47,7 +47,7 @@ $config = [
 //                    'Access-Control-Max-Age' => 86400,
 //                    'Access-Control-Expose-Headers' => [],
 //                ],
-//            ]
+//            ],
 //            'thumbsPath' => '@webroot/thumbs',
 //            'thumbsUrl' => '@web/thumbs',
 //            'thumbsSize' => [150, 150],
